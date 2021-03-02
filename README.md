@@ -14,12 +14,14 @@ You can contribute to this by either opening an issue or making a pull request. 
 CC 0. 
 
 ## Format
-Each section/slide has up to three categories:
+Each "My X" section/slide represents a type of data in a monograph and has up to three categories:
 1) (Do) Now - You can do this now!
 2) (Do) Soon - Sensu the Workshop's "I can imagine this technology existing already", _not_ "feature available tomorrow"
 3) (To) do - Quick ideas/opinions/comments about missing bits.
 
 TODO? - At the end of this section a series of hyperlinks reference the issues raised at the workshop as recorded on the "stickies" there.
+
+# Presentation
 
 ## My team
 ### Now
