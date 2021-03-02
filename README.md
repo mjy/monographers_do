@@ -28,7 +28,6 @@ TODO? - At the end of this section a series of hyperlinks reference the issues r
 Get an ORCID id, get your collaborators ORCIDs. Add ORCIDs to your data (e.g. in `recordedByID` or `identifiedByID`). Get a Wikidata Q id for your people, for dead people who collected the specimens you looked at. Spam these IDs everywhere you archive other data (e.g. Figshare, Zenodo, Publishers, all take ORCIDs now). Publish your data with ORCIDs to GBIF, watch people find your data by looking *you* up at GBIF.  You're a primary curator/producer, so Bionomia has less impact for you during production of the monograph, i.e. by definition you're re-examining specimens and their data, but when your data get to GBIF, then your data will be visible in platforms like Binomia, i.e. more accessible. Use tools like TaxonWorks to reference People as things, not rows of data while you compile your monograph.
 ### Soon
 Publish your People to Wikidata via tools like TaxonWorks.
-### Do
 
 ## My specimens
 ### Now 
@@ -61,8 +60,6 @@ MorphDBase2 levels of instance based assertions.
 ## My DNA
 ### Now 
 Scientists have been sending data to Genbank for a long time. Most importantly, you're a monographer and know that unique-identifier based vouchering, or the use of UUIDs when vouchering is not possible, is the foundation of your monograph, so you include references to those in your uploads whenever possible. You can also send your data to BOLD.
-### Soon 
-### Do 
 
 ## My Images
 ### Now
@@ -89,7 +86,6 @@ Git + images (or large genomic datasets) doesn't work so well.
 [Crossreference an OBO foundry ontology](https://obofoundry.org/). Contribute your data to a growing number of anatomical ontologies.  Get your vertebrate data in [Phenoscape's](https://phenoscape.org/) hands. Create a ["URI table" where possible](http://portal.hymao.org/projects/32/public/ontology/analyze).  Use ImageJ and other tools to auto-measure your anatomy and provide tables of data (e.g. Ants, Odontates, Fish) to your companion Git repo.
 ### Soon
 Moaaar anatomy ontologies. Semantic labelling of images.
-### Do
 
 ## Shameless plug
 Does your monograph contain [stuff like this](https://stats.taxonworks.org/?server=sfg.taxonworks.org)? Then it can be [shared in places like this](https://api.taxonworks.org/). 
