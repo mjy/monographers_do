@@ -72,6 +72,10 @@ Cleverly point Internet Archive at your images.
 ### Do
 Use IPFS peer-to-peer to share your images bit-torrent-esqe style.
 
+## My Protocols
+### Now
+Use a [Juptyer notebook](https://jupyter.org/) if crunching numbers.  Add that to your monographs companion git repo. Publish your generalized notes as a Git repo. [Example](https://github.com/rafelafrance/nitfix/tree/v0.1.1-SLIMS).
+
 ## My archive
 ### Now
 Did you know that [adding a repository to Github is perhaps the single best ultra long term archive of your data at the moment](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-archiving-content-and-data-on-github#about-the-github-archive-program)? Zip everything, compute a SHA for the zip, reference the SHA in your publication.  Put the Zip and the SHA "out there". Also, make crude webpages using free [Github pages](https://pages.github.com/), point the [Internet Archive](https://archive.org/index.php) at them.
