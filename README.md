@@ -1,4 +1,4 @@
-# To answer the question "Monographer, what do you do?" I want others to to understand that "my" data are accessible to you already
+# To answer the question "Monographer, what did you do?" I want others to to understand that "my" data are accessible to you already
 
 ## What is this?
 This is a very hastily done brainstorm. As part of the [Revitalizing Monographs](https://revitalizingmonographs.org/) workshops various premises and thought experiments were raised that suggested that part of what needs to be done to "revitalize" monography is to point the broader community to tools, processes, and methods that _already exist_.  We don't mean to imply that things are "solved" in any of these areas. We do mean to imply that there are numerous, often very good, options out there for getting the core data in a Monograph into others hands/machines, and that some of these options adequately address requests being made of monographers. There are also emerging technologies that seek to serve Monographers explicitly that people may not be aware of.
