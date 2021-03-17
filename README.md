@@ -31,7 +31,7 @@ Publish your People to Wikidata via tools like [TaxonWorks](https://taxonworks.o
 
 ## My specimens
 ### Now 
-Ensure your physical specimens have catalog numbers. Share your specimens with [GBIF](https://www.gbif.org/) via [DwC format](https://dwc.tdwg.org/terms/). Pensoft will help do this. There are many other routes including publishing your dataset on Zenodo](https://zenodo.org/), [GitHub](https://github.com/), [IPTs](https://www.gbif.org/ipt), etc. and pointing [GBIF](https://www.gbif.org/) there. Numerous platforms exemplify tools that facilitate the pre-aggregation and curation of these data (e.g. [Specify](https://www.specifysoftware.org/), [TaxonWorks](https://taxonworks.org/), [Symbiota](https://symbiota.org/docs/), [Open Refine](https://openrefine.org/), [Arctos](https://arctos.database.museum/home.cfm)). All of these data form the core of the "Digital Specimen".  You, as a monographer don't have to worry about that downstream job, just remember: 1) Catalog numbers on specimens; 2) Recommended bonus: UUIds for the occurrence going to GBIF as well. 
+Ensure your physical specimens have catalog numbers. Share your specimens with [GBIF](https://www.gbif.org/) via [DwC format](https://dwc.tdwg.org/terms/). Pensoft will help do this. There are many other routes including publishing your dataset on [Zenodo](https://zenodo.org/), [GitHub](https://github.com/), [IPTs](https://www.gbif.org/ipt), etc. and pointing [GBIF](https://www.gbif.org/) there. Numerous platforms exemplify tools that facilitate the pre-aggregation and curation of these data (e.g. [Specify](https://www.specifysoftware.org/), [TaxonWorks](https://taxonworks.org/), [Symbiota](https://symbiota.org/docs/), [Open Refine](https://openrefine.org/), [Arctos](https://arctos.database.museum/home.cfm)). All of these data form the core of the "Digital Specimen".  You, as a monographer don't have to worry about that downstream job, just remember: 1) Catalog numbers on specimens; 2) Recommended bonus: UUIds for the occurrence going to GBIF as well. 
 ### Soon 
 Better rendering of specimens in _human readable format_.
 ### Do
@@ -55,7 +55,7 @@ The text description. If it's published in Pensoft it's been processed by [Plazi
 ### Soon
 More flash, not much more substance.
 ### Do
-MorphDBase2 levels of instance based assertions.
+[MorphDBase2](https://www.morphdbase.de/) levels of instance based assertions.
 
 ## My DNA
 ### Now 
