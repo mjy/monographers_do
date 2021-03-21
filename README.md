@@ -25,13 +25,13 @@ TODO? - At the end of this section a series of hyperlinks reference the issues r
 
 ## My team
 ### Now
-Get an ORCID id, get your collaborators ORCIDs. Add ORCIDs to your data (e.g. in `recordedByID` or `identifiedByID`). Get a Wikidata Q id for your people, for dead people who collected the specimens you looked at. Spam these IDs everywhere you archive other data (e.g. Figshare, Zenodo, Publishers, all take ORCIDs now). Publish your data with ORCIDs to GBIF, watch people find your data by looking *you* up at GBIF.  You're a primary curator/producer, so Bionomia has less impact for you during production of the monograph, i.e. by definition you're re-examining specimens and their data, but when your data get to GBIF, then your data will be visible in platforms like Binomia, i.e. more accessible. Use tools like TaxonWorks to reference People as things, not rows of data while you compile your monograph.
+Get an [ORCID id](https://orcid.org/), get your collaborators ORCIDs. Add ORCIDs to your data (e.g. in `recordedByID` or `identifiedByID`). Get a [Wikidata Q identifier](https://www.wikidata.org/wiki/Wikidata:Identifiers) for your people, for dead people who collected the specimens you looked at. Spam these IDs everywhere you archive other data (e.g. [Figshare](https://figshare.com/), [Zenodo](https://zenodo.org/), Publishers, all take ORCIDs now). Publish your data with ORCIDs to [GBIF](https://www.gbif.org/), watch people find your data by looking *you* up at GBIF.  You're a primary curator/producer, so Bionomia has less impact for you during production of the monograph, i.e. by definition you're re-examining specimens and their data, but when your data get to GBIF, then your data will be visible in platforms like [Bionomia](https://bionomia.net/), i.e. more accessible. Use tools like [TaxonWorks](https://taxonworks.org/) to reference People as things, not rows of data while you compile your monograph.
 ### Soon
-Publish your People to Wikidata via tools like TaxonWorks.
+Publish your People to Wikidata via tools like [TaxonWorks](https://taxonworks.org/).
 
 ## My specimens
 ### Now 
-Ensure your physical specimens have catalog numbers. Share your specimens with GBIF via DwC format. Pensoft will help do this. There are many other routes including publishing your dataset on Zenodo, Github, IPTs, etc. and pointing GBIF there. Numerous platforms exemplify tools that facilitate the pre-aggregation and curation of these data (e.g. Specify, TaxonWorks, Symbiota, Open Refine, Arctos). All of these data form the core of the "Digital Specimen".  You, as a monographer don't have to worry about that downstream job, just remember: 1) Catalog numbers on specimens; 2) Recommended bonus: UUIds for the occurrence going to GBIF as well. 
+Ensure your physical specimens have catalog numbers. Share your specimens with [GBIF](https://www.gbif.org/) via [DwC format](https://dwc.tdwg.org/terms/). Pensoft will help do this. There are many other routes including publishing your dataset on [Zenodo](https://zenodo.org/), [GitHub](https://github.com/), [IPTs](https://www.gbif.org/ipt), etc. and pointing [GBIF](https://www.gbif.org/) there. Numerous platforms exemplify tools that facilitate the pre-aggregation and curation of these data (e.g. [Specify](https://www.specifysoftware.org/), [TaxonWorks](https://taxonworks.org/), [Symbiota](https://symbiota.org/docs/), [Open Refine](https://openrefine.org/), [Arctos](https://arctos.database.museum/home.cfm)). All of these data form the core of the "Digital Specimen".  You, as a monographer don't have to worry about that downstream job, just remember: 1) Catalog numbers on specimens; 2) Recommended bonus: UUIds for the occurrence going to GBIF as well. 
 ### Soon 
 Better rendering of specimens in _human readable format_.
 ### Do
@@ -43,7 +43,7 @@ Add your data to [Zoobank](http://zoobank.org/), Pensoft will do it all for you,
 
 ## My phylogeny
 ### Now
-Load your tree, pre-publication even, to [Open Tree](https://opentreeoflife.org).
+Load your tree, pre-publication even, to [Open Tree](https://opentreeoflife.github.io/).
 
 ## My biological relationships 
 ### Now
@@ -51,11 +51,11 @@ Just put some sort of table on a Github pages (or Google Drive, or anywhere that
 
 ## My descriptions
 ### Now
-The text description. If it's published in Pensoft it's been processed by Plazi and isolatable via Pensoft and Plazis tools. You can also publish NeXML, Nexus, TNT, CSV versions of your data your companion Git repository. You can share your Observations (matrix, phylogenetic or descriptive) via a TaxonWorks JSON serving endpoint. You can do [crazy things like make Manchester syntax statements with rediculous OWL references](https://bioip.github.io/) (e.g. go to the lengths to produce RDF triples). You can use old tools like LUCID and others that will spit out SDD format. You could co-opt Mesquite or other matrix building software to manage your states in a matrix. You can use a simple script to compose your telegraphic sections (tools like 'mx', vSysLab, etc. have been doing this for over a decade, tools like IntKey have been doing this for decades). Create RC5/21 assertions between your taxa, share the corresponding CSV on your companion Git repository.
+The text description. If it's published in Pensoft it's been processed by [Plazi](http://plazi.org/) and isolatable via [Pensoft](https://pensoft.net/) and Plazis tools. You can also publish NeXML, Nexus, TNT, CSV versions of your data your companion GitHub repository. You can share your Observations (matrix, phylogenetic or descriptive) via a TaxonWorks JSON serving endpoint. You can do [crazy things like make Manchester syntax statements with rediculous OWL references](https://bioip.github.io/) (e.g. go to the lengths to produce RDF triples). You can use old tools like LUCID and others that will spit out SDD format. You could co-opt Mesquite or other matrix building software to manage your states in a matrix. You can use a simple script to compose your telegraphic sections (tools like 'mx', vSysLab, etc. have been doing this for over a decade, tools like IntKey have been doing this for decades). Create RC5/21 assertions between your taxa, share the corresponding CSV on your companion Git repository.
 ### Soon
 More flash, not much more substance.
 ### Do
-MorphDBase2 levels of instance based assertions.
+[MorphDBase2](https://www.morphdbase.de/) levels of instance based assertions.
 
 ## My DNA
 ### Now 
@@ -63,7 +63,7 @@ Scientists have been sending data to Genbank for a long time. Most importantly, 
 
 ## My Images
 ### Now
-OK, this is awful. But wait- Zenodo, Figshare, Morphosource! Upload your plates. Get DOIs. Share all your images, and their metadata via a TaxonWorks API.
+OK, this is awful. But wait- [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/), [MorphoSource](https://www.morphosource.org/), [Morphobank](https://morphobank.org/)! Upload your plates. Get DOIs. Share all your images, and their metadata via a TaxonWorks API.
 ### Soon 
 Cleverly point Internet Archive at your images.
 ### Do
@@ -71,7 +71,7 @@ Use IPFS peer-to-peer to share your images bit-torrent-esqe style.
 
 ## My Protocols
 ### Now
-Use a [Juptyer notebook](https://jupyter.org/) if crunching numbers.  Add that to your monographs companion git repo. Publish your generalized notes as a Git repo. [Example](https://github.com/rafelafrance/nitfix/tree/v0.1.1-SLIMS).
+Use a [Juptyer notebook](https://jupyter.org/) if crunching numbers.  Add that to your monographs companion git repo. Publish your generalized notes as a Git repo. [Example](https://github.com/rafelafrance/nitfix/tree/v0.1.1-SLIMS). You can also create your own citable protocols at [Protocols.io](https://www.protocols.io/).
 
 ## My archive
 ### Now
@@ -83,7 +83,7 @@ Git + images (or large genomic datasets) doesn't work so well.
 
 ## My anatomical insights
 ### Now
-[Crossreference an OBO foundry ontology](https://obofoundry.org/). Contribute your data to a growing number of anatomical ontologies.  Get your vertebrate data in [Phenoscape's](https://phenoscape.org/) hands. Create a ["URI table" where possible](http://portal.hymao.org/projects/32/public/ontology/analyze).  Use ImageJ and other tools to auto-measure your anatomy and provide tables of data (e.g. Ants, Odontates, Fish) to your companion Git repo.
+[Crossreference an OBO foundry ontology](https://obofoundry.org/). Contribute your data to a growing number of anatomical ontologies.  Get your vertebrate data in [Phenoscape's](https://phenoscape.org/) hands. Create a ["URI table" where possible](http://portal.hymao.org/projects/32/public/ontology/analyze).  Use ImageJ and other tools to auto-measure your anatomy and provide tables of data (e.g. Ants, Odontates, Fish) to your companion Git repo. Data matrices can be archived as NEXUS files into [Dryad](https://datadryad.org/stash).
 ### Soon
 Moaaar anatomy ontologies. Semantic labelling of images.
 
